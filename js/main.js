@@ -12,3 +12,7 @@ var planet = new Planet(1, 'planet', 'Земля', './images/earth.png', 550, 65
 planet.render();
 sun.render();
 mercury.render();
+
+
+var star = new Stars(500);
+star.render();
