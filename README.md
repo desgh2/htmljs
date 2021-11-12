@@ -1,5 +1,3 @@
-# htmljs
-html js
+# Solar System
 
-
-Create Solar System
+Solar System
